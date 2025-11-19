@@ -1,0 +1,7 @@
+{
+  "name": "TriviaGenius AI",
+  "description": "A dynamic trivia game hosted by an AI personalities. Features real-time voice conversation, search-grounded questions, and text-to-speech capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
